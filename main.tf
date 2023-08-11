@@ -149,4 +149,3 @@ resource "aws_api_gateway_deployment" "app_deployment" {
     create_before_destroy = true
   }
 }
-
