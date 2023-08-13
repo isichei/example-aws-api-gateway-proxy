@@ -1,6 +1,6 @@
 # Exampe AWS API Gateway Proxy
 
-Simple example of setting up an AWS gateway to route all requests to a single lambda.
+Simple example of setting up an AWS gateway to route all requests to a single lambda running Go.
 
 Just writing it down for future reference.
 
